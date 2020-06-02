@@ -1,27 +1,10 @@
-## Welcome to My House
+# Welcome to My House
 
-Second branch test
+GitHub page for Colacino Lab projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## About us
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+The Colacino Lab is housed in the Department of Environmental Health Sciences at the University of Michigan School of Public Health in Ann Arbor, Michigan. We are also affiliated with the Department of Nutritional Sciences, the University of Michigan Rogel Cancer Center, the Michigan Center for Single-Cell Genomic Data Analysis, the Michigan Lifestage Environmental Exposures and Disease NIEHS P30 Core Center, the Center of Computational Medicine and Bioinformatics, and the Program in Biomedical Sciences (PIBS).
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
