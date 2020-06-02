@@ -1,1 +1,11 @@
+# basic options
+title: Colacino Lab GitHub
+author: Justin Colacino
+email: colacino@umich.edu
+description: GitHub page for the Colacino Lab projects 
+twitter_username: justincolacino
+github_username:  [ADD THIS LATER]
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-leap-day
